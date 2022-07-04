@@ -2,7 +2,7 @@
 
 Create your first CodePen:
 
-1.  Open the template from [here]( https://codepen.io/futurecodersse/pen/JjLYRXe)  
+1.  Open the template from [here](https://codepen.io/futurecodersse/pen/JjLYRXe)  
 
 2.  Click the **fork** button  
 ![](https://github.com/futureCodersSE/web-dev-one-day/blob/main/Assets/Fork-button.jpg)  
