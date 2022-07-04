@@ -1,10 +1,11 @@
 # Introduction to HTML
 
-Code Pen here:
-<pre>
-<iframe height="300" style="width: 100%;" scrolling="no" title="EmbedTest" src="https://codepen.io/futurecodersse/embed/ExEVyME?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/futurecodersse/pen/ExEVyME">
-  EmbedTest</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
-</pre>
+Create your first CodePen:
+
+1.  Open the template from [here]( https://codepen.io/futurecodersse/pen/JjLYRXe)  
+
+2.  Click the **fork** button
+![](https://github.com/futureCodersSE/web-dev-one-day/blob/main/Assets/Fork-button.jpg)  
+3.  You are ready to edit your first HTML page  
+
+![](https://github.com/futureCodersSE/web-dev-one-day/blob/main/Assets/First-page.jpg)
