@@ -3,22 +3,25 @@ import React from "react";
 // import Footer from "../../components/footer/footer";
 import "./home.css";
 import "../../index.css";
+import logo from '../../logo.png';
 
 
 function Home() {
-    return (
-      <>
-        {/* <Header /> */}
-        <main>
-          <div className="container-fluid page">
-            <section data-title="Exercise 1">Exercise 1 and codepen</section>
-            <section data-title="Exercise 2">Exercise 1 and codepen</section>
-            <section data-title="Exercise 3">Exercise 1 and codepen</section>
-          </div>
-        </main>
-        {/* <Footer /> */}
-      </>
-    )
+  return (
+    <>
+      {/* <Header /> */}
+      <main>
+        <img src={logo} className="home-logo" alt="logo" />
+        <p>Web development with HTML/CSS one day course</p>
+        <div className="container-fluid page">
+          <p><a className="home-link" href="/worksheets/1">Worksheet 1</a></p>
+          <p><a className="home-link" href="/worksheets/2">Worksheet 2</a></p>
+          <p><a className="home-link" href="/worksheets/3">Worksheet 3</a></p>
+        </div>
+      </main>
+      {/* <Footer /> */}
+    </>
+  )
 };
 
 export default Home;
