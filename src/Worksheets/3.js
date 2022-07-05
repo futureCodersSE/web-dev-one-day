@@ -1,22 +1,16 @@
 import React from "react";
-// import Header from "../../components/header/header";
-// import Footer from "../../components/footer/footer";
+import PageTemplate from '../components/PageTemplate';
 import "./worksheets.css";
 
-function Worksheet3() {
+function Worksheet1() {
+
   return (
-    <>   
-        {/* <Header /> */}
-        <main>
-            <div className="container-fluid page">
-                <p>Worksheet 3</p>
-            </div>
-        </main>
-        <footer>
-            <button><a href="/">Back</a></button>
-        </footer>
-    </>
+    <PageTemplate>
+      <div className="container-fluid page">
+        <p>Worksheet 3</p>
+      </div>
+    </PageTemplate>
   )
 };
 
-export default Worksheet3;
+export default Worksheet1;
