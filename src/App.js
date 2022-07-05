@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from "./Pages/home/home";
 import Worksheet1 from "./Worksheets/1";
@@ -16,8 +17,6 @@ function App() {
             <Route path='/worksheets/1' element={<Worksheet1 />} />
             <Route path='/worksheets/2' element={<Worksheet2 />} />
             <Route path='/worksheets/3' element={<Worksheet3 />} />
-
-          />
           </Routes>
         </div>
       </BrowserRouter>
