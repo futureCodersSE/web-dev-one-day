@@ -3,3 +3,34 @@
 .italics {
   font-style: italic;
 }
+
+.bold {
+  font-weight: 600;
+}
+
+/* tag for code block container */
+.pre {
+  margin: 20px 0px;
+  max-width: 90vw;
+}
+
+/* code block container in pre element */
+.pre .code {
+  display: block;
+  background: #eff0ef;
+  max-width: 100%;
+  min-width: 100px;
+  padding: 3px;
+  font-family: monospace;
+  font-size: 16px;
+  margin: 0px;
+}
+
+ul {
+  padding-inline-start: 30px;
+  margin: 10px 0px;
+}
+
+p {
+  margin: 20px 0px;
+}
