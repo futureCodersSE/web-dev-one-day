@@ -1,6 +1,6 @@
 /*  */
 
-.italics {
+.italic {
   font-style: italic;
 }
 
@@ -9,13 +9,13 @@
 }
 
 /* tag for code block container */
-.pre {
+pre {
   margin: 20px 0px;
   max-width: 90vw;
 }
 
 /* code block container in pre element */
-.pre .code {
+pre code {
   display: block;
   background: #eff0ef;
   max-width: 100%;
@@ -26,8 +26,8 @@
   margin: 0px;
 }
 
-ul {
-  padding-inline-start: 30px;
+ul, ol {
+  padding-left: 30px;
   margin: 10px 0px;
 }
 

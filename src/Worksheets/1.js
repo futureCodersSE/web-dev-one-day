@@ -20,7 +20,7 @@ function Worksheet1() {
       />
       
       {/* 1. add p and h tags */}
-      <p><span className="bold">Task</span>: In the code editor below, use the knowledge you covered in the topic sheet 1 and create the image below. <br /><br /><span className="italics"><span className="bold">Note</span>: there is no need to set up anything in the code editor below - you just type the elements straight into the HTML box!</span></p>
+      <p><span className="bold">Task</span>: In the code editor below, use the knowledge you covered in the topic sheet 1 and create the image below. <br /><br /><span className="italic"><span className="bold">Note</span>: there is no need to set up anything in the code editor below - you just type the elements straight into the HTML box!</span></p>
 
       <MyFigure imgSrc={img1} altText="exercise 1.1 showing a h1 heading, a paragraph, a h2 heading and another paragraph" caption="Fig 1.1: HTML headers and paragraphs"/>
 

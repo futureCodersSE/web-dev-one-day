@@ -6,7 +6,9 @@ const PageTemplate = (props) => {
   const { title, description, children } = props;
 
   return (
-    <> 
+    <div style={{
+      minHeight: "100vh"
+    }}> 
       <Header />
       <main style={{
         margin: "40px 30px"
@@ -16,7 +18,7 @@ const PageTemplate = (props) => {
           { children }
       </main>
       <Footer />
-    </>
+    </div>
   )
 }
 
