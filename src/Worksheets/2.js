@@ -6,7 +6,7 @@ import "./worksheets.css";
 import img1 from "../assets/sheet2/exercise1-1.png";
 import img4 from "../assets/sheet2/exercise4.png";
 
-function Worksheet1() {
+function Worksheet2() {
 
   return (
     <PageTemplate
@@ -111,4 +111,4 @@ function Worksheet1() {
   )
 };
 
-export default Worksheet1;
+export default Worksheet2;
