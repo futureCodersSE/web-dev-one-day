@@ -92,7 +92,7 @@ function Worksheet1() {
       <p>For more information on anchor elements click <a href="https://www.w3schools.com/tags/tag_a.asp" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
       {/* codepen embed */}
-      <iframe height="400" style={{width: "100%"}} scrolling="no" title="Exercise sheet 1 start" src="https://codepen.io/futurecodersse/embed/JjLGEob?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+      <iframe height="400" style={{width: "100%"}} scrolling="no" title="Exercise sheet 1 start" src={`https://codepen.io/futurecodersse/embed/JjLGEob?default-tab=html%2Cresult&editable=true`} frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
         See the Pen <a href="https://codepen.io/futurecodersse/pen/JjLGEob">
         Exercise sheet 1 start</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
         on <a href="https://codepen.io">CodePen</a>.
