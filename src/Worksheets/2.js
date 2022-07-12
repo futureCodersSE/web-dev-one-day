@@ -53,7 +53,7 @@ function Worksheet2() {
       </pre>
 
       {/* first styling codepen */}
-      <iframe height="400" style={{width: "100%"}} scrolling="no" title="Exercise 1 start" src={`https://codepen.io/futurecodersse/embed/oNqxNrq?default-tab=html%2Cresult&editable=true`} frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+      <iframe height="400" style={{width: "100%"}} scrolling="no" title="Exercise 1 start" src={`https://codepen.io/futurecodersse/embed/oNqxNrq?default-tab=html%2Cresult&editable=true`} frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
         See the Pen <a href="https://codepen.io/futurecodersse/pen/oNqxNrq">
         Exercise 1 start</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
         on <a href="https://codepen.io">CodePen</a>.
@@ -101,7 +101,7 @@ function Worksheet2() {
         caption="Fig 4: CSS styling for web page design"  
       />
 
-      <iframe height="400" style={{width: "100%"}} scrolling="no" title="Sheet 2 exercise 4 start" src={`https://codepen.io/futurecodersse/embed/wvmWyGG?default-tab=html%2Cresult&editable=true`} frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+      <iframe height="400" style={{width: "100%"}} scrolling="no" title="Sheet 2 exercise 4 start" src={`https://codepen.io/futurecodersse/embed/wvmWyGG?default-tab=html%2Cresult&editable=true`} frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
         See the Pen <a href="https://codepen.io/futurecodersse/pen/wvmWyGG">
         Sheet 2 exercise 4 start</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
         on <a href="https://codepen.io">CodePen</a>.
