@@ -14,6 +14,7 @@ function Home() {
         <p><a className="home-link" href="/worksheets/2">Worksheet 2</a></p>
         <p><a className="home-link" href="/worksheets/3">Worksheet 3</a></p>
         <p><a className="home-link" href="/worksheets/4">Worksheet 4</a></p>
+        <p><a className="home-link" href="/worksheets/5">Worksheet 5</a></p>
       </div>
     </main>
   )
