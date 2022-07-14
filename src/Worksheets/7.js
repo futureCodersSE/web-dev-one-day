@@ -49,7 +49,7 @@ function Worksheet7() {
         alignItems: "flex-end",
         border: "1px solid black"
       }}>
-        <iframe height="600" width="100%" scrolling="no" title="Exercise sheet 7 solution" src="https://codepen.io/j-dance/full/MWVaaPp" frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
+        <iframe height="600" width="100%" scrolling="no" title="Exercise sheet 7 solution" src="https://codepen.io/futurecodersse/full/gOeLRar" frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
           See the Pen <a href="https://codepen.io/futurecodersse/pen/gOeLRar">
           Exercise sheet 7 solution</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
           on <a href="https://codepen.io">CodePen</a>.
