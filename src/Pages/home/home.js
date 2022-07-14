@@ -16,6 +16,7 @@ function Home() {
         <p><a className="home-link" href="/worksheets/4">Worksheet 4</a></p>
         <p><a className="home-link" href="/worksheets/5">Worksheet 5</a></p>
         <p><a className="home-link" href="/worksheets/6">Worksheet 6</a></p>
+        <p><a className="home-link" href="/worksheets/7">Worksheet 7</a></p>
       </div>
     </main>
   )

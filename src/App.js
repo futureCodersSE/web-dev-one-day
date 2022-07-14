@@ -8,6 +8,7 @@ import Worksheet3 from "./Worksheets/3";
 import Worksheet4 from './Worksheets/4';
 import Worksheet5 from './Worksheets/5';
 import Worksheet6 from './Worksheets/6';
+import Worksheet7 from './Worksheets/7';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             <Route path='/worksheets/4' element={<Worksheet4 />} />
             <Route path='/worksheets/5' element={<Worksheet5 />} />
             <Route path='/worksheets/6' element={<Worksheet6 />} />
+            <Route path='/worksheets/7' element={<Worksheet7 />} />
           </Routes>
         </div>
       </BrowserRouter>
