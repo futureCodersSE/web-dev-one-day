@@ -26,6 +26,16 @@ function Worksheet6() {
         on <a href="https://codepen.io">CodePen</a>.
       </iframe>
 
+      {/* 2. personal project */}
+      <ExerciseTextBlock
+        title="2. Personal project task"
+        text="Personal project tasks will be opportunities for you to apply what you have just learnt."
+      />
+
+      <p><span className="bold">Task</span>: In your Replit personal project, edit your existing code to include Semantic HTML tags.</p>
+
+      <p className="italic bold">Remember you can always Google search anything you're not sure of!</p>
+
     </PageTemplate>
   )
 };

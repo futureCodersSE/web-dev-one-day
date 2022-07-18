@@ -71,7 +71,22 @@ function Worksheet3() {
       
       {/* 3. box sizing */}
 
+      {/* 3. personal project */}
+      <ExerciseTextBlock
+        title="3. Personal project task"
+        text="Personal project tasks will be opportunities for you to apply what you have just learnt."
+      />
 
+      <p><span className="bold">Task</span>: In your Replit personal project, add HTML and CSS to create a similar layout to Fig.2. Try to do this from scratch without refering to the code in the Codepen editors.</p>
+
+      <p>You should aim to have the following components on the page:</p>
+      <ol>
+        <li>Header section with a logo</li>
+        <li>Top navigation bar with some options</li>
+        <li>A main content area with some text and an image</li>
+      </ol>
+
+      <p className="italic bold">Remember you can always Google search anything you're not sure of!</p>
 
     </PageTemplate>
   )

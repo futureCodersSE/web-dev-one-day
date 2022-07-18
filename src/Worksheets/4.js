@@ -115,7 +115,7 @@ function Worksheet4() {
       <MyFigure
         imgSrc={img4} 
         altText="exercise 5 extra showing default/block being used for list items" 
-        caption="Fig 3: Layout of side bar"  
+        caption="Fig 4: Layout of side bar"  
       />
 
       <iframe height="500" width="100%" scrolling="no" title="Sheet 4 exercise 5 start" src={`https://codepen.io/futurecodersse/embed/rNdMOEa?default-tab=html%2Cresult&editable=true`} frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
@@ -124,6 +124,24 @@ function Worksheet4() {
         on <a href="https://codepen.io">CodePen</a>.
       </iframe>
 
+      {/* 6. personal project */}
+      <ExerciseTextBlock
+        title="6. Personal project task"
+        text="Personal project tasks will be opportunities for you to apply what you have just learnt."
+      />
+
+      <p><span className="bold">Task</span>: In your Replit personal project, use positioning to layout the web page in the same way as you did in this exercise sheet.</p>
+
+      <p>You should aim to have the following features on the page:</p>
+      <ol>
+        <li>New logo layout</li>
+        <li>Sticky navbar</li>
+        <li>Navbar in front of all other components {`(use z-index)`}</li>
+        <li>An image with text inline with it in the main section {`(see Fig.3)`}</li>
+        <li>A side bar nav with some items listed in it {`(see Fig.4)`}</li>
+      </ol>
+
+      <p className="italic bold">Remember you can always Google search anything you're not sure of!</p>
     </PageTemplate>
   )
 };

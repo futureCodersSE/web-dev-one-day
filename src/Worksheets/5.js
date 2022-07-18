@@ -96,6 +96,16 @@ function Worksheet5() {
         Sheet 5 exercise 3 start</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
         on <a href="https://codepen.io">CodePen</a>.
       </iframe>
+
+      {/* 4. personal project */}
+      <ExerciseTextBlock
+        title="4. Personal project task"
+        text="Personal project tasks will be opportunities for you to apply what you have just learnt."
+      />
+
+      <p><span className="bold">Task</span>: In your Replit personal project, use flexbox and/or grid method to layout the web page in the same way shown in Fig.3.</p>
+
+      <p className="italic bold">Remember you can always Google search anything you're not sure of!</p>
      
     </PageTemplate>
   )

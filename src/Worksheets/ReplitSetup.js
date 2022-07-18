@@ -21,7 +21,7 @@ function ReplitSetup() {
         text="Click on the link below. This will open a new tab with the FutureCoders starter project setup for you."
       />
       
-      <p>Click <a href="">here</a> to go to the starter project.</p>
+      <p>Click <a href="www.sfgf">here</a> to go to the starter project.</p>
 
       {/* <MyFigure imgSrc={} altText="future coders starter project file" caption="This is the page the link takes you to"/> */}
 
