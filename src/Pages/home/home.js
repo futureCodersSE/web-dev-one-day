@@ -3,7 +3,6 @@ import "./home.css";
 import "../../index.css";
 import logo from '../../logo.png';
 
-
 function Home() {
   return (
     <main className="page">
@@ -18,6 +17,7 @@ function Home() {
         <p><a className="home-link" href="/worksheets/semantic-html">Worksheet 6</a></p>
         <p><a className="home-link" href="/worksheets/final-task">Worksheet 7</a></p>
         <p><a className="home-link" href="/replit-setup">Replit instructions</a></p>
+        <p><a className="home-link" href="/worksheets/forms">Extension Worksheet</a></p>
       </div>
     </main>
   )

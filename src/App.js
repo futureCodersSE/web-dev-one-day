@@ -10,6 +10,7 @@ import Worksheet5 from './Worksheets/5';
 import Worksheet6 from './Worksheets/6';
 import Worksheet7 from './Worksheets/7';
 import ReplitSetup from './Worksheets/ReplitSetup';
+import Forms from './Worksheets/Forms';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
             <Route path='/worksheets/flexbox-grid' element={<Worksheet5 />} />
             <Route path='/worksheets/semantic-html' element={<Worksheet6 />} />
             <Route path='/worksheets/final-task' element={<Worksheet7 />} />
+            <Route path='/worksheets/forms' element={<Forms />} />
             <Route path='/replit-setup' element={<ReplitSetup />} />
           </Routes>
         </div>
