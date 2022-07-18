@@ -9,6 +9,7 @@ import Worksheet4 from './Worksheets/4';
 import Worksheet5 from './Worksheets/5';
 import Worksheet6 from './Worksheets/6';
 import Worksheet7 from './Worksheets/7';
+import ReplitSetup from './Worksheets/ReplitSetup';
 
 function App() {
   return (
@@ -18,13 +19,14 @@ function App() {
         <div className='App'>
           <Routes>
             <Route path='/' element={<Home />} />
-            <Route path='/worksheets/1' element={<Worksheet1 />} />
-            <Route path='/worksheets/2' element={<Worksheet2 />} />
-            <Route path='/worksheets/3' element={<Worksheet3 />} />
-            <Route path='/worksheets/4' element={<Worksheet4 />} />
-            <Route path='/worksheets/5' element={<Worksheet5 />} />
-            <Route path='/worksheets/6' element={<Worksheet6 />} />
-            <Route path='/worksheets/7' element={<Worksheet7 />} />
+            <Route path='/worksheets/introduction/html' element={<Worksheet1 />} />
+            <Route path='/worksheets/introduction/css' element={<Worksheet2 />} />
+            <Route path='/worksheets/box-model' element={<Worksheet3 />} />
+            <Route path='/worksheets/positioning' element={<Worksheet4 />} />
+            <Route path='/worksheets/flexbox-grid' element={<Worksheet5 />} />
+            <Route path='/worksheets/semantic-html' element={<Worksheet6 />} />
+            <Route path='/worksheets/final-task' element={<Worksheet7 />} />
+            <Route path='/replit-setup' element={<ReplitSetup />} />
           </Routes>
         </div>
       </BrowserRouter>

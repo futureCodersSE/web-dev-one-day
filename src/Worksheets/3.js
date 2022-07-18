@@ -42,7 +42,7 @@ function Worksheet3() {
         <code>{`}`}</code>
       </pre>
 
-      <p>Next, add the following class to the <span className="bold">div</span> element nested inside the <span className="bold">div</span> element with the class name {`"logo"`}</p>
+      <p>Next, add the class name {`"inner-logo"`} to the <span className="bold">div</span> element nested inside the <span className="bold">div</span> element with the class name {`"logo"`}</p>
 
       <p>After completing these two steps you should have the orange and green div elements as shown in Fig.1</p>
 

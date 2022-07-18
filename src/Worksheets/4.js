@@ -13,7 +13,7 @@ function Worksheet4() {
   return (
     <PageTemplate
       title="Exercise sheet 4"
-      description="This sheet contains the exercises for the positioning topics sheet. Positioning HTML elements is crucial for laying out a web page. Without this the web page would render each HTML element one after the other from top to bottom. Gaining a good understanding of how these topics work enables you to create interesting and more complex layouts."
+      description="This sheet contains the exercises for the positioning topics sheet. Positioning HTML elements is crucial for laying out a web page. Without this the web page would render each HTML element one after the other from top to bottom. Gaining a good understanding of how these CSS properties work enables you to create interesting and more complex layouts."
     >
       {/* 1. position relative (top, bottom, left, right) */}
       <ExerciseTextBlock
@@ -48,7 +48,7 @@ function Worksheet4() {
         caption="Fig 2: Result of absolute positioning applied to logo"  
       />
 
-      <iframe height="400" width="100%" scrolling="no" title="Sheet 4 exercise 1 start" src={`https://codepen.io/futurecodersse/embed/wvmzavB?default-tab=html%2Cresult&editable=true`} frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
+      <iframe height="500" width="100%" scrolling="no" title="Sheet 4 exercise 1 start" src={`https://codepen.io/futurecodersse/embed/wvmzavB?default-tab=html%2Cresult&editable=true`} frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
         See the Pen <a href="https://codepen.io/futurecodersse/pen/wvmzavB">
         Sheet 4 exercise 1 start</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
         on <a href="https://codepen.io">CodePen</a>.
@@ -86,7 +86,7 @@ function Worksheet4() {
 
       <p className="italic">Hint: greater z-index values are layered towards the front</p>
 
-      <iframe height="400" width="100%" scrolling="no" title="Sheet 4 exercise 3 solution" src={`https://codepen.io/futurecodersse/embed/vYRXOqN?default-tab=html%2Cresult&editable=true`} frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
+      <iframe height="500" width="100%" scrolling="no" title="Sheet 4 exercise 3 solution" src={`https://codepen.io/futurecodersse/embed/vYRXOqN?default-tab=html%2Cresult&editable=true`} frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
         See the Pen <a href="https://codepen.io/futurecodersse/pen/vYRXOqN">
         Sheet 4 exercise 3 solution</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
         on <a href="https://codepen.io">CodePen</a>.

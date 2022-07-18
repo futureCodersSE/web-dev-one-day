@@ -13,7 +13,7 @@ function Worksheet5() {
   return (
     <PageTemplate
       title="Exercise sheet 5"
-      description="This sheet contains the exercises for the Flexbox and grid topics sheet."
+      description="This sheet contains the exercises for the Flexbox and grid topics sheet. With an ever increasing number of devices with screens on them, it is a web developers job to make sure the layout looks good on all screens. There exists different approaches to laying out whole web pages or just parts of them. The two methods covered here are very popular and powerful, allowing a web developer to easily create responsive designs."
     >
       {/* 1. Recreate layout using flex - seperate codepen */}
       <ExerciseTextBlock
@@ -82,7 +82,7 @@ function Worksheet5() {
         caption="Fig 3: Web page layout using Flexbox and grid"  
       />
 
-      <p><span className="bold">Extra task</span>: In the same Codepen editor below, add a footer to the wab page as shown in the image below.</p>
+      <p><span className="bold">Extra task</span>: In the same Codepen editor below, add a footer to the web page as shown in the image below.</p>
 
       <MyFigure
         imgSrc={img4} 
