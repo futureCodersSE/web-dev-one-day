@@ -32,6 +32,12 @@ It makes designing a responsive layout easier.
 
 *Responsive means designing for multiple screen sizes*
 
+<br>
+<p align="center" >
+  <img src="./assets/responsive.jpg" width="40%" />
+</p>
+<br>
+
 It is also supported in all modern web browsers.
 
 ## Flexbox properties
@@ -146,6 +152,10 @@ This creates 3 rows:
 2. the second has a height of 100px
 3. the third has a height equal to twice the first row height
 
+Rows go from top to bottom
+
+In the above example, the first row, of size *1fr*, starts at the top. The last row, of size *2fr*, would be at the bottom of the grid area.
+
 **Columns**
 
 Grid columns are defined in the same manner as rows, except using
@@ -153,5 +163,7 @@ Grid columns are defined in the same manner as rows, except using
 ```
 grid-template-columns: 1fr 100px 2fr
 ```
+
+Columns go from left to right.
 
 See [grid-template](https://www.w3schools.com/cssref/pr_grid-template.asp) for the shorthand delaration and see [grid-template-areas](https://www.w3schools.com/cssref/pr_grid-template-areas.asp) for an alternative was of defining grids.

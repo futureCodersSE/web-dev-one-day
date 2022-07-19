@@ -26,6 +26,12 @@ Non-semantic elements are ones like `div` and `span` as they do not give any ind
 
 ## Why is it useful?
 
+<br>
+<p align="center" >
+  <img src="./assets/page-layout.png" width="50%" />
+</p>
+<br>
+
 Semantic HTML makes the code easier to understand for any viewer and for the browser.
 
 It also makes a web page easier to layout when coding - Imagine a large web page with 100's of `div` elements!

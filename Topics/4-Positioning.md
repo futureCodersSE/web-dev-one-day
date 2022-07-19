@@ -27,6 +27,12 @@ This is achieved by giving the following properties a dimension:
 - `left`: moves the element from the left side in the right direction
 - `right`: moves the element from the right side in the left direction
 
+<br>
+<p align="center" >
+  <img src="./assets/arrows.png" width="25%" />
+</p>
+<br>
+
 This can be difficult to wrap your head around at first but with practice it becomes easier!
 
 **Position: absolute**
@@ -38,6 +44,12 @@ If no parent element is given a `position` property then the `absolute` position
 Use the same positioning properties as before (`top`, `bottom`, `left`, `right`)
 
 **Position: fixed**
+
+<br>
+<p align="center" >
+  <img src="./assets/pinned.png" width="40%" />
+</p>
+<br>
 
 The `position` property can be set to `fixed` to *fix* an element to a certain position on the screen relative to the viewport (usually the screen dimensions).
 

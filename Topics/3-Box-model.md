@@ -21,9 +21,13 @@ Each element on the page can be thought of as being contained in it's own 'box'.
 - margins
 - border
 
-![box model diagram from https://www.w3schools.com/Css/css_boxmodel.asp](../Assets/box-model-diagram.png)
-
 ## How is CSS related?
+
+<br>
+<p align="center" >
+  <img src="./assets/box-model-diagram.png" width="60%" />
+</p>
+<br>
 
 Through using CSS we can change the default browser styling and add our own to each element.
 
@@ -89,12 +93,20 @@ Another feature useful for web developers is that you can directly edit the styl
 
 Below is an image of Chrome dev tools for inspecting the HTML/CSS of Google
 
-![chrome dev tools inspection of HTML/CSS source code](../Assets/dev-tools.png)
+<br>
+<p align="center" >
+  <img src="./assets/dev-tools.png" width="80%" />
+</p>
+<br>
 
 Under the **Elements** tab you can inspect HTML/CSS.
 
 On the right hand side under the **Computed** tab you can view an individual elements CSS properties and box model of the element with dimensions, as shown below.
 
-![chrome dev tools computed view of box model](../Assets/dev-tool-box-model.png)
+<br>
+<p align="center" >
+  <img src="./assets/dev-tool-box-model.png" width="60%" />
+</p>
+<br>
 
 These tools are very useful to see how your code is working in the browser and to quickly see what CSS changes may look like without actually adding them to the code.

@@ -7,7 +7,11 @@
 3. What does a HTML page typically contain?
 
 ## What is programming & why is it useful?
-
+<br>
+<p align="center" >
+  <img src="./assets/questions.jpg" width="40%" />
+</p>
+<br>
 Programming is a way of telling a computer what to do.
 
 For example, you could use programming to write code which solves a problem.
@@ -26,6 +30,12 @@ A *markup language* is a system for adding, formatting and arranging elements in
 
 Modern web pages are made up of **HTML**, **CSS** and usually **JavaScript**.
 
+<br>
+<p align="center" >
+  <img src="./assets/monitors.png" width="50%" />
+</p>
+<br>
+
 It is sometimes useful to think of a web page as a person:
 
 - HTML would be the skeleton and provide the structure to the page
@@ -37,6 +47,12 @@ It is sometimes useful to think of a web page as a person:
 Web browsers can read HTML documents and display them on a screen in the desired format.
 
 Some examples of browers include Chrome, Edge, Firefox and Safari.
+
+<br>
+<p align="center" >
+  <img src="./assets/browsers.png" width="30%" />
+</p>
+<br>
 
 When a browser *reads* a HTML document it does not display the HTML tags/markup, but uses them to determine how to display the document.
 
@@ -50,7 +66,6 @@ For example, `<h1>Big heading</h1>`
 
 The `h1` tag is a *headings* tag and renders on the screen as the largest sized text.
 
-<!-- insert image of table with headings comparison -->
 
 ### Page structure
 
@@ -103,15 +118,4 @@ Image tags can also have:
 
 ## Exercises
 
-Before begining the exercises please follow these steps to create your first CodePen:
-
-1.  Open the template from [here](https://codepen.io/futurecodersse/pen/JjLYRXe)  
-
-2.  Click the **fork** button  
-![](https://github.com/futureCodersSE/web-dev-one-day/blob/main/Assets/Fork-button.jpg)  
-3.  You are ready to edit your first HTML page  
-
-![](https://github.com/futureCodersSE/web-dev-one-day/blob/main/Assets/First-page.jpg)
-  
-  
-Head to this page for the exercises and begin coding!!
+You are now ready to begin the first exercise sheet on HTML!

@@ -10,6 +10,12 @@
 
 CSS stands for **Cascading Style Sheet** and is a programming language used to *style* HTML elements.
 
+<br>
+<p align="center" >
+  <img src="./assets/css-logo.png" width="30%" />
+</p>
+<br>
+
 To *style* means to visually edit a HTML element. This could be colour, sizing, positioning ect..
 
 CSS is crucial for web developers as this is how you make web pages visually pleasing.
@@ -114,6 +120,12 @@ In the code example above we have set the font colour to blue and the font-weigh
 Id's are unique to elements, therefore two HTML elements cannot have the same id name.
 
 ## Stylesheets
+
+<br>
+<p align="center" >
+  <img src="./assets/stylesheet.png" width="35%" />
+</p>
+<br>
 
 Stylesheets are where CSS code is written.
 
