@@ -5,6 +5,8 @@ import MyFigure from "../components/MyFigure/MyFigure";
 import "./worksheets.css";
 import forkButton from '../assets/replit/fork-button.png';
 import replitLogin from '../assets/replit/replit-login.png';
+import replitInvite from '../assets/replit/replit-invite.png';
+import replitShareScreen from '../assets/replit/replit-share-screen.png';
 
 function ReplitSetup() {
 
@@ -49,7 +51,31 @@ function ReplitSetup() {
       {/* <MyFigure imgSrc={replitEditor} altText="replit editor" caption="Replit editor page"/> */}
 
       {/* instructions for code share? */}
+      <ExerciseTextBlock 
+        title="5. Code sharing" 
+        text={`Replit allows you to generate a link which enables anyone who clicks the link to view and edit your code. This will be useful for when the course instructor needs to see your work, such as when you have a bug or have completed an exercise sheet.`}
+      />
+
+      <p>To share your Replit personal project, follow the below intrsuctions:</p>
+
+      <ol>
+        <li>Click the <span className="bold">Invite</span> button in the top right hand corner</li>
+        <li>A pop up Invite screen appears. Click <span className="bold">Gernerate a join link</span> button</li>
+        <li>Copy the newly created link to share with the course instructor</li>
+      </ol>
       
+      <MyFigure 
+        imgSrc={replitInvite} 
+        altText="replit invite button" 
+        caption="Replit invite button for sharing project"
+      />
+
+      <MyFigure 
+        imgSrc={replitShareScreen} 
+        altText="replit share screen window" 
+        caption="Replit share screen window"
+      />
+
     </PageTemplate>
   )
 };
