@@ -7,6 +7,7 @@ import forkButton from '../assets/replit/fork-button.png';
 import replitLogin from '../assets/replit/replit-login.png';
 import replitInvite from '../assets/replit/replit-invite.png';
 import replitShareScreen from '../assets/replit/replit-share-screen.png';
+import replitStart from '../assets/replit/replit-start.png';
 
 function ReplitSetup() {
 
@@ -23,9 +24,14 @@ function ReplitSetup() {
         text="Click on the link below. This will open a new tab with the FutureCoders starter project setup for you."
       />
       
-      <p>Click <a href="www.sfgf">here</a> to go to the starter project.</p>
+      <p>Click <a href="https://replit.com/@KarenScott1/HTMLCSS-course-beginning#index.html" target="_blank" rel="noopener noreferrer">here</a> to go to the starter project.</p>
 
-      {/* <MyFigure imgSrc={} altText="future coders starter project file" caption="This is the page the link takes you to"/> */}
+      <MyFigure
+        width="80%" 
+        imgSrc={replitStart} 
+        altText="future coders starter project file" 
+        caption="Replit FutureCoders starter project"
+      />
 
       <ExerciseTextBlock 
         title="2. Fork the project" 

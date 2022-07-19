@@ -96,7 +96,7 @@ Here is an example of a basic HTML document structure:
 - `<meta>` elements contain the specific *meta* data e.g. `charset="UTF-8"` lets the browser know which character set to use for encoding
 - `<body>` element defines the document's body containing all the content you wish to show on the page
 
-Check out this online code editor at [StackBlitz](https://stackblitz.com/edit/web-platform-m2cx4p?file=index.html) to see what a standard HTML page looks like.
+Check out this online code editor at [replit](https://replit.com/@KarenScott1/HTML-CSS-JS#index.html) to see what a standard HTML page looks like.
   
 #### Common HTML elements
   

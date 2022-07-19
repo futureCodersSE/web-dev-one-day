@@ -64,12 +64,19 @@ function Forms() {
 
       <p className="italic">Hint: set the href attribute to the file path of the form.js file</p>
 
+      <p>Below is an example of a replit project with page navigation. Have a look at the code to gain an undestanding of how linking HTML pages works {`(click Show files)`}.</p>
+
+      <iframe title="page linking replit embed" frameBorder="0" width="100%" height="500px" src="https://replit.com/@KarenScott1/Extension-page-linking-example?embed=true"></iframe>
+
+
       <MyFigure
         width="70%"
         imgSrc={formExample} 
         altText="HTML example styled form" 
         caption="Fig 2: HTML styled form example"  
       />
+
+
 
     </PageTemplate>
   )

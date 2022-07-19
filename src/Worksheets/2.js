@@ -59,8 +59,6 @@ function Worksheet2() {
         on <a href="https://codepen.io">CodePen</a>.
       </iframe>
 
-      {/* external styling & link -> setup to look like web page */}
-      {/* exercise must be done in another embed?? */}
       <ExerciseTextBlock
         title="3. External stylesheets"
         text="In this exercise you are going to add an external stylesheet for styling."
