@@ -7,16 +7,20 @@
 3. What does a HTML page typically contain?
 
 ## What is programming & why is it useful?
+
 <br>
 <p align="center" >
   <img src="./assets/questions.jpg" width="40%" />
 </p>
 <br>
+
 Programming is a way of telling a computer what to do.
 
 For example, you could use programming to write code which solves a problem.
 
-Code is writen in programming languages *(can you name any?)* consisting of statements. These statements are read by a computer and executed step-by-step to form a set of instructions. Through applying logic, many complex calculations can be executed and problems solved which otherwise would have taken a human much longer!
+Code is writen in programming languages *(can you name any?)* consisting of statements. These statements are read by a computer and executed step-by-step to form a set of instructions. 
+
+Through applying logic, many complex calculations can be executed and problems solved which otherwise would have taken a human much longer!
 
 Being able to communicate with computers via programming languages has enabled many of todays technologies to exist. Everything from apps on your phone to mapping the planet.
 

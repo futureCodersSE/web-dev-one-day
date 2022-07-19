@@ -123,7 +123,7 @@ Id's are unique to elements, therefore two HTML elements cannot have the same id
 
 <br>
 <p align="center" >
-  <img src="./assets/stylesheet.png" width="35%" />
+  <img src="./assets/stylesheet.png" width="25%" />
 </p>
 <br>
 
