@@ -11,7 +11,7 @@ function Forms() {
 
   return (
     <PageTemplate
-      title="Extension exercise sheet"
+      title="Extension exercise sheet: Forms"
       description="This is the extension exercise sheet for the course. In this exercise sheet you are going to build out a static (has no functionality) form using HTML and CSS. We will then link this new page to the web page we built in this course already."
     >
 

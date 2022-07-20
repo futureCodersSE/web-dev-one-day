@@ -7,7 +7,7 @@ function Worksheet7() {
 
   return (
     <PageTemplate
-      title="Exercise sheet 7"
+      title="Exercise sheet 7: Build a web page"
       description="This is the final exercise sheet for the course. This exercise was designed to give you an understanding of what a typical task might be for a web developer. This task involves all the skills you have learnt so far in the course."
     >
       {/* 1. position relative (top, bottom, left, right) */}

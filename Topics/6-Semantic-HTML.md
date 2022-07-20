@@ -28,7 +28,7 @@ Non-semantic elements are ones like `div` and `span` as they do not give any ind
 
 <br>
 <p align="center" >
-  <img src="./assets/page-layout.png" width="50%" />
+  <img src="./assets/page-layout.png" width="40%" />
 </p>
 <br>
 

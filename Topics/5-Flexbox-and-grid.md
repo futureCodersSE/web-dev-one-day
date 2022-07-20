@@ -34,7 +34,7 @@ It makes designing a responsive layout easier.
 
 <br>
 <p align="center" >
-  <img src="./assets/responsive.jpg" width="40%" />
+  <img src="./assets/responsive.png" width="40%" />
 </p>
 <br>
 
@@ -134,6 +134,12 @@ the parent element can have the following grid properties:
 
 - `grid-template`: defines the columns, rows and areas in a parent container
 - `grid-gap`: defines the size of the gaps between rows and columns
+
+<br>
+<p align="center" >
+  <img src="./assets/grid.png" width="40%" />
+</p>
+<br>
 
 **Defining rows**
 

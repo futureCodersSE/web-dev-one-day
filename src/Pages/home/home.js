@@ -8,7 +8,7 @@ function Home() {
     <main className="page">
       <img src={logo} className="home-logo" alt="logo" />
       <p>Web development with HTML/CSS one day course</p>
-      <div className="container-fluid page">
+      <div className="container-fluid">
         <p><a className="home-link" href="/worksheets/introduction/html">Worksheet 1</a></p>
         <p><a className="home-link" href="/worksheets/introduction/css">Worksheet 2</a></p>
         <p><a className="home-link" href="/worksheets/box-model">Worksheet 3</a></p>

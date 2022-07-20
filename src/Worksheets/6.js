@@ -7,7 +7,7 @@ function Worksheet6() {
 
   return (
     <PageTemplate
-      title="Exercise sheet 6"
+      title="Exercise sheet 6: Semantic HTML"
       description="This sheet contains the exercises for the Semantic HTML topics sheet. Getting used to coding with Semantic HTML is something web developers should strive for. It'll help make your code easier for others as well as for yourself to understand."
     >
       {/* 1. position relative (top, bottom, left, right) */}

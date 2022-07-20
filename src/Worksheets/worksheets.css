@@ -11,7 +11,7 @@
 /* tag for code block container */
 pre {
   margin: 20px 0px;
-  max-width: 90vw;
+  width: 100%;
 }
 
 /* code block container in pre element */

@@ -10,7 +10,7 @@ function Worksheet3() {
 
   return (
     <PageTemplate
-      title="Exercise sheet 3"
+      title="Exercise sheet 3: Box model"
       description="This sheet contains the exercises for the box model topics sheet. Understanding the CSS box model really helps you become a better web developer. Being able to visually understand how spacing and sizes affect a HTML element can improve your ability to style a web page in an efficient manner."
     >
       {/* 1. use dev tools to inspect HTML/CSS */}

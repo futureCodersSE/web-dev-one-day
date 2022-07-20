@@ -10,7 +10,7 @@ function Worksheet2() {
 
   return (
     <PageTemplate
-      title="Exercise sheet 2"
+      title="Exercise sheet 2: Introduction to CSS"
       description="This sheet contains the exercises for the introduction to CSS topics sheet. Without CSS added to our HTML code, web pages would look very dull. Styling such as layout, size and colours are great ways to add life to a web page. In this exercise sheet you will add some basic styling, such as colour and font size to make a web page more visually pleasing. "
     >
       {/* inline styling */}

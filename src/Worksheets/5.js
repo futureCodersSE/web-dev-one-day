@@ -12,7 +12,7 @@ function Worksheet5() {
 
   return (
     <PageTemplate
-      title="Exercise sheet 5"
+      title="Exercise sheet 5: Flexbox and Grid method"
       description="This sheet contains the exercises for the Flexbox and grid topics sheet. With an ever increasing number of devices with screens on them, it is a web developers job to make sure the layout looks good on all screens. There exists different approaches to laying out whole web pages or just parts of them. The two methods covered here are very popular and powerful, allowing a web developer to easily create responsive designs."
     >
       {/* 1. Recreate layout using flex - seperate codepen */}
@@ -43,7 +43,7 @@ function Worksheet5() {
 
       {/* 2. grid exercise */}
       <ExerciseTextBlock
-        title="2. Grid"
+        title="2. Grid method"
         text="In this exercise you are going to use the grid method to layout a web page."
       />
 

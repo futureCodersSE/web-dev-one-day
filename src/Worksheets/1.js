@@ -10,7 +10,7 @@ function Worksheet1() {
 
   return (
     <PageTemplate
-      title="Exercise sheet 1"
+      title="Exercise sheet 1: Introduction to HTML"
       description="This sheet contains the exercises for the introduction to HTML topics sheet. HTML forms the building blocks of a web page and it is the first thing a web developer will add to a web page to give the page its structure. This exercise sheet gets you to use some of the most common HTML elements used for building a web page."
     >
       {/* intro */}

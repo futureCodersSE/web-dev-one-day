@@ -16,7 +16,7 @@ const MyFigure = (props) => {
         alignItems: "center"
       }}>
         <img src={imgSrc} alt={altText} style={{
-          border: "1px solid black",
+          border: "1px solid #101010",
           marginBottom: "10px",
           width: `${width}`,
           height: "auto"

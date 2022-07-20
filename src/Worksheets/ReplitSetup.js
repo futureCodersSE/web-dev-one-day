@@ -8,6 +8,7 @@ import replitLogin from '../assets/replit/replit-login.png';
 import replitInvite from '../assets/replit/replit-invite.png';
 import replitShareScreen from '../assets/replit/replit-share-screen.png';
 import replitStart from '../assets/replit/replit-start.png';
+import replitEditor from '../assets/replit/replit-editor.png';
 
 function ReplitSetup() {
 
@@ -54,7 +55,7 @@ function ReplitSetup() {
 
       <p className="bold">Remember! - you must save each time you make a change in order to see those changes. To do this press down the <span className="italic">Win</span> + <span className="italic">s</span> for Windows or <span className="italic">cmd</span> + <span className="italic">s</span> for Macbook users.</p>
 
-      {/* <MyFigure imgSrc={replitEditor} altText="replit editor" caption="Replit editor page"/> */}
+      <MyFigure width="70%" imgSrc={replitEditor} altText="replit editor" caption="Replit editor page"/>
 
       {/* instructions for code share? */}
       <ExerciseTextBlock 
