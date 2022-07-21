@@ -15,7 +15,7 @@ const Footer = () => {
       borderTop: "1px solid #101010",
       color: "white"
     }}>
-      <button><a href="/">Back</a></button>
+      {/* <button><a href="/">Back</a></button> */}
       <p>{`@futureCodersSE`}</p>
     </div>
   )
