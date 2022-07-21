@@ -7,7 +7,7 @@ const Footer = () => {
       position: "absolute",
       display: "flex",
       alignItems: "center",
-      justifyContent: "space-between",
+      justifyContent: "flex-end",
       width: "100%",
       background: "#101010",
       height: "7vh",

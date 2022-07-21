@@ -55,7 +55,43 @@ function Worksheet7() {
           on <a href="https://codepen.io">CodePen</a>.
         </iframe>
       </div>
-  
+      
+      {/* extension exercise 2 */}
+
+      <ExerciseTextBlock
+        title="2. Building from scratch"
+        text="In this exercise you are going to use what you have learnt to match the design of a web page, coding from the very start."
+      />
+
+      <p><span className="bold">Task</span>: In your personal project editor, create the web page view in the Codepen below as closely as possible.</p>
+
+      <p>Use your browser dev tools to inspect the HTML/CSS in more detail</p>
+
+      <p>Image URL's:</p>
+
+      <ol>
+        <li>https://irp-cdn.multiscreensite.com/9a1979f4/dms3rep/multi/desktop/gift+shop.jpg</li>
+        <li>{`https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/luxe-gifts-you-will-want-to-keep-1510155847.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*`}</li>
+        <li>https://clipstrip.com/pop-fuel/wp-content/uploads/2017/08/happy-shopper.jpeg</li>
+      </ol>
+
+      <div style={{
+        display: "flex",
+        margin: "50px auto",
+        justifyContent: "center",
+        overflow: "hidden",
+        height: "535px",
+        width: "80%",
+        alignItems: "flex-end",
+        border: "1px solid black"
+      }}>
+        <iframe height="600" width="100%" scrolling="no" title="Exercise sheet 7 solution" src="https://codepen.io/futurecodersse/full/QWmvBON" frameBorder="no" loading="lazy" allowtransparency="true" allowFullScreen={true}>
+          See the Pen <a href="https://codepen.io/futurecodersse/full/QWmvBON">
+          Exercise sheet 7 solution</a> by futureCoders (<a href="https://codepen.io/futurecodersse">@futurecodersse</a>)
+          on <a href="https://codepen.io">CodePen</a>.
+        </iframe>
+      </div>
+
     </PageTemplate>
   )
 };
